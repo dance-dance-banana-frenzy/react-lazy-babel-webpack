@@ -1,0 +1,1 @@
+react-lazy-babel-webpack
